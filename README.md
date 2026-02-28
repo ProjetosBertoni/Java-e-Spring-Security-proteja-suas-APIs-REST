@@ -53,6 +53,4 @@ O foco principal é proteger endpoints utilizando autenticação stateless basea
 
 
 
-1. Clone o repositório:
-```bash
-git clone git@github.com:SEU_USUARIO/NOME_REPO.git
+
